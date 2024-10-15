@@ -1,4 +1,4 @@
-package com.example.viewmodelapp
+/*package com.example.viewmodelapp
 
 import android.util.Log
 import androidx.lifecycle.LiveData
@@ -27,4 +27,4 @@ class CreditCardViewModel : ViewModel(){
             }
         }
     }
-}
+}*/
